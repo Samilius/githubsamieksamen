@@ -62,3 +62,29 @@ a:active {
     color: white;
 
 }
+
+.ommig {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+
+.ommigbox {
+    display: flex;
+    margin: 5%;
+    justify-content: center;
+}
+
+.ommigtekst {
+    background-color: white;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    margin:
+}
+
+.image {
+    height: 35vw;
+    width: auto;
+    flex-wrap: wrap;
+}
