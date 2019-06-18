@@ -63,13 +63,6 @@ a:active {
 
 }
 
-.ommig {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-content: center;
-}
-
 .ommigbox {
     display: flex;
     margin: 5%;
@@ -87,4 +80,32 @@ a:active {
     height: 35vw;
     width: auto;
     flex-wrap: wrap;
+}
+
+.portfoliobilleder {
+    width: 200px;
+    height: 200px;
+}
+
+.portofoliocontainer {
+    display: flex;
+    justify-content: center;
+
+}
+
+.portfoliotitler {
+    display: block;
+    background-color: white;
+    margin: 20px;
+    border-radius: 20px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.billedeholder {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 400px;
+    margin-top: 75px;
+
 }
