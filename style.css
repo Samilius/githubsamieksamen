@@ -20,7 +20,6 @@ html {
 .navn {
     font-size: 140px;
     margin-top: 75px;
-    flex-basis: auto;
     color: darkblue;
     font-family: 'Amatic SC', cursive;
 }
