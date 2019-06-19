@@ -73,18 +73,22 @@ a:active {
     background-color: white;
     text-align: center;
     font-family: 'Amatic SC', cursive;
-    margin:
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .image {
     height: 35vw;
     width: auto;
     flex-wrap: wrap;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 .portfoliobilleder {
     width: 200px;
     height: 200px;
+    border-radius: 10px;
 }
 
 .portofoliocontainer {
